@@ -9,6 +9,12 @@ Pre-built boxes can be installed via [Hashicorp Atlas](https://atlas.hashicorp.c
 Current:
 
 ```
+vagrant box add stoege/openbsd-6.0
+```
+
+Old:
+
+```
 vagrant box add ryanmaclean/openbsd-5.9
 ```
 
